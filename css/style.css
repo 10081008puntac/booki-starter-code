@@ -156,6 +156,8 @@ a {
         font-size: 14px;
     }
 
+    
+
     .populaires-cards .card-subtitle {
         font-size: 13px;
     }
@@ -165,3 +167,37 @@ a {
 @media (max-width: 767.98px) {
     /* ... */
 }
+
+.hebergements-and-populaires {
+        flex-direction: column;
+    }
+
+    .hebergements {
+        width: ;
+    }
+
+    .populaires {
+        width: ;
+        margin-top: ;
+    }
+
+    .populaires-cards {
+        display: ;
+        flex-direction: ;
+        justify-content: ;
+    }
+
+    .populaires-cards a {
+        width: ;
+    }
+
+    .populaires-cards .card-title {
+        font-size: ;
+    }
+
+    .populaires-cards .card-subtitle {
+        font-size: ;
+    }
+}
+
+
